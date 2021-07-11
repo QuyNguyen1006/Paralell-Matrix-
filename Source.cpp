@@ -137,7 +137,6 @@ int main()
 	int Size;
 	double Start1, Finish1, Duration1, Start2, Finish2, Duration2;
 	
-	printf("Da sua hehe");
 	printf("Parallelmatrix-vector multiplication program\n");
 	ProcessInitialization(pMatrix, pVector, pResult, Size);
 
